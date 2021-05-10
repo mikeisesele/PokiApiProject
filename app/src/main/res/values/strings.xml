@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Decagon Android 007</string>
+    <string name="image" />
+    <string name="select_image" />
+    <string name="upload" />
+    <string name="download" />
+    <string name="first_implementation">First Implementation</string>
+    <string name="second_implementation">Second Implementation</string>
+</resources>
